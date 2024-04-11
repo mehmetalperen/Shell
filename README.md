@@ -44,8 +44,3 @@ Ensure that the file permissions are set correctly for I/O redirection operation
 
 ## Development Environment
 Ensure your development is done on `openlab.ics.uci.edu` as the shell is tested and intended to be run in this environment using GCC version 11.3.0.
-
-## Contributing
-As this is an assignment submission, contributing is not applicable. However, feedback from instructors and TAs is always welcome.
-
-Remember to replace any placeholder text with the specific details or additional functionalities of your shell implementation.
